@@ -12,7 +12,7 @@ Aplicação desenvolvida com HTML+CSS
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b95ddcfa-dbc9-494a-9bee-b5479c3146aa" alt="Preview do projeto desenvolvido." width="60%">
+  <img src="./assets/image.png" alt="Preview do projeto desenvolvido." width="60%">
 </p>
 
 ## 🚀 Tecnologias
