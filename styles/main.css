@@ -23,7 +23,8 @@ main #main-titles {
     padding-inline: 12px;
 
     img {
-        border-radius: 8px
+        border-radius: 8px;
+        width: 100%;
     }
 
     h3 {
