@@ -1,0 +1,84 @@
+header {
+    background-image: url(../assets/backgrounds/Background_Intro.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    justify-items: center;
+
+    padding-bottom: 57px;
+
+    box-sizing: border-box;
+}
+
+header {
+
+    main {
+        width: 1040px;
+        align-items: center;
+        padding-block: 120px 94px;
+
+    }
+
+    #resume {
+        width: 680px;
+        align-items: center;
+    }
+
+    #person {
+        padding: 4.36px;
+        border: 2px solid var(--red);
+        border-radius: 100%;
+    }
+    
+    #profile::after {
+        content: url(../assets/icons/Code.svg);
+        display: flex;
+        width: 112px;
+        height: 112px;
+
+        position: fixed;
+        z-index: 2;
+    }
+
+    p {
+        text-align: center;
+    }
+
+    #subtitle01 {
+        font: var(--subtitle);
+        margin-block: 56px 8px;
+        color: var(--gray-600);
+    }
+    
+    #text-header {
+        font: var(--text-sm);
+        color: var(--gray-400);
+        margin-block: 20px 80px;
+    }
+
+    #items {
+        width: 754px;
+        color: var(--gray-600);
+        font: var(--text-md);
+        justify-content: space-around;
+        gap: 16px;
+    }
+
+    .item {
+        padding: 8px 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-color: var(--gray-300);
+        border-radius: 999px;
+        gap: 8px;
+    }
+
+    #code {
+        position: absolute;
+        top: 70px;
+        right: 0px;
+    }
+
+}
+    

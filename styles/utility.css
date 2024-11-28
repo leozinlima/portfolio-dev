@@ -1,0 +1,47 @@
+.grid {
+    display: grid;
+}
+
+.grid-flow-row {
+    grid-auto-flow: row;
+}
+
+.grid-flow-col {
+    grid-auto-flow: column;
+}
+
+.grid-rows-2 {
+    grid-template-rows: repeat(2, 1fr); 
+}
+
+.grid-rows-4 {
+    grid-template-rows: 750px 917px 480px 787px;
+}
+
+.grid-cols-3 {
+    grid-template-columns: repeat(3, 1fr)
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-flow-col {
+    flex-direction: column;
+}
+
+h1 {
+    font: var(--title-lg);
+}
+
+h2 {
+    font: var(--title-md);
+}
+
+h3 {
+    font: var(--title-sm)
+}
+
+.relative {
+    position: relative;
+}
