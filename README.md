@@ -12,7 +12,7 @@ Aplicação desenvolvida com HTML+CSS
 <br>
 
 <p align="center">
-  <img src="./assets/readmeNeedIt.png" alt="Preview do projeto desenvolvido." width="60%">
+  <img src="./assets/image.png" alt="Preview do projeto desenvolvido." width="60%">
 </p>
 
 ## 🚀 Tecnologias
